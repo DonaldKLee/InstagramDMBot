@@ -10,9 +10,10 @@ Coming soon...
 
 ```
 
-3. Find the version of your Chrome browser in "Settings" --> "About Chrome". Then (install a Webdriver for Chrome that supports your browser's version) [https://sites.google.com/a/chromium.org/chromedriver/downloads]
+3. Find the version of your Chrome browser in "Settings" --> "About Chrome". Then [install a Webdriver for Chrome that supports your browser's version] (https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-4. Once installed, 
+4. Once installed,.... coming soon...
+
 # Instructions
 
 # How it works?
