@@ -14,7 +14,7 @@ pip install selenium
 
 </br>Then [install a Webdriver for Chrome that supports your browser's version](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-4. Once your web driver has been installed, put it somewhere on your computer and copy and paste it's path (The path should start with C:\\, E:\\, etc.) onto line 19.
+4. Once your web driver has been installed, put it somewhere on your computer and copy and paste it's path (The path should start with C:\\, E:\\, etc.) onto line 31.
 
 </br> Example:
 ```
@@ -25,7 +25,7 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"  # Step 4 of the installations 
 
 5. Enter in your Instagram email, password, the recipient's username, the number of times you would like the message to send, and the message.
 
-</br> This starts on line 11:
+</br> This starts on line 23:
 ```
 myemail = "example@gmail.com"             # Enter in your email, phone number, or username for Instagram inside the quotation marks
 mypassword = "myInstagramPassword123"     # Enter in your password for Instagram inside the quotation marks
