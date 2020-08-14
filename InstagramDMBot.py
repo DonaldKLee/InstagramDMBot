@@ -1,6 +1,6 @@
 '''
 By: Donald Lee
-Date: August 9th-13th, 2020
+Date: August 10th-13th, 2020
 
 For instructions or information, please refer to https://github.com/Donald-K-Lee/InstagramDMBot/blob/master/README.md
 
