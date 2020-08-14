@@ -3,16 +3,18 @@
 Coming soon...
 
 # Installation and Instructions
-1. Download the code from this repository GitHub
+1. Download the code from this repository
 
-2. install the following modules
+2. install the following module
+```
+pip install selenium
 ```
 
-```
+3. Find the version of your Chrome browser in "Settings" --> "About Chrome". 
 
-3. Find the version of your Chrome browser in "Settings" --> "About Chrome". Then [install a Webdriver for Chrome that supports your browser's version](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+</br>Then [install a Webdriver for Chrome that supports your browser's version](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-4. Once your web driver has been installed, put it somewhere on your computer and copy and paste it's path (The path should start with C:\\, E:\\, etc. ) onto line 18.
+4. Once your web driver has been installed, put it somewhere on your computer and copy and paste it's path (The path should start with C:\\, E:\\, etc.) onto line 18.
 
 </br> Example:
 ```
@@ -37,9 +39,9 @@ message = "Hello, World!"
 # How it works?
 
 # Tools
-## Libraries/Modules:
-**Selenium** - A module used to automate web browsers </br>
-**time** - 
+## Libraries/Modules used:
+**time** - A module that allowed us to add delays into the code. </br>
+**Selenium** - A module used to automate web browsers.
 
 # Important 
 Please do NOT use this for spam, bullying, etc. 
