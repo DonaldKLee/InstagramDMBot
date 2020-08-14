@@ -30,7 +30,7 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"  # Step 4 of the installations 
 myemail = "example@gmail.com"    # Enter in your email for Instagram inside the quotation marks
 mypassword = "myInstagramPassword123"     # Enter in your password for Instagram inside the quotation marks
 friendusername = "@myfriend"     # Enter in the username of the recipient inside the quotation marks
-numoftimes = ""         # Enter in the number of times you would like to send the message to the recipient Ex) 1
+numoftimes = "1"         # Enter in the number of times you would like to send the message to the recipient Ex) 1
 
 # The message being sent
 message = "Hello, World!"
