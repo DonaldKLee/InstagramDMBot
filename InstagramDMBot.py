@@ -1,3 +1,15 @@
+'''
+By: Donald Lee
+Date: August 9th-13th, 2020
+
+For instructions or information, please refer to https://github.com/Donald-K-Lee/InstagramDMBot/blob/master/README.md
+
+Please do NOT use this for spam, bullying, etc.
+By using this script, YOU will take FULL responsibility for anything that happens to ANYONE you use this on and anything you do with this script!.
+Additionally, using this script may involve a risk of you being banned and even other risks including but not limited to: being hacked, etc.
+Use this script at your own risk!
+
+'''
 from selenium import webdriver
 # To wait for side load
 from selenium.webdriver.common.by import By
