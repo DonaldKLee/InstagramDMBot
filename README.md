@@ -1,6 +1,9 @@
 # InstagramDMBot
 
-Coming soon...
+A bot that can send messages for you to Instagram users. Ever wanted to send hundreds of the same text message to a friend or several friends efficiently? Well, now you can!  <-- Please make sure that they are ok with this first! Anything you do with this script is on you!
+
+Note: This was a fun project for experimental and learning purposes. 
+</br> Please do not use this for malicious behaviour, because YOU will be responsible! 
 
 # Installation and Instructions
 1. Download the code from this repository
@@ -37,8 +40,15 @@ message = "Hello, World!"
 ```
 
 # How it works?
+1. This script first opens up "https://www.instagram.com/". </br>
+2. Logs in for you by automatically pasting in the login credentials that you filled in on "Step 5" of the "Installation and Instructions" process. </br>
+3. Once logged in, the bot will press the "Direct message" button on Instagram. </br>
+4. It will then click on the "New message" button and paste in the first username in the "friendusernames" list.  </br>
+5. The bot will then click on "Next". </br>
+6. Paste in the text in the "message" variable. </br>
+7. Finally, the bot will virtually hit the ENTER/RETURN key on your computer and send the message!  </br>
+8. If you have multiple recipients, the bot will repeat step 4 and onwards! 
 
-# Tools
 ## Libraries/Modules used:
 **time** - A module that allowed us to add delays into the code. </br>
 **Selenium** - A module used to automate web browsers.
