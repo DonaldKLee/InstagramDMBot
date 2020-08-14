@@ -14,7 +14,7 @@ pip install selenium
 
 </br>Then [install a Webdriver for Chrome that supports your browser's version](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-4. Once your web driver has been installed, put it somewhere on your computer and copy and paste it's path (The path should start with C:\\, E:\\, etc.) onto line 18.
+4. Once your web driver has been installed, put it somewhere on your computer and copy and paste it's path (The path should start with C:\\, E:\\, etc.) onto line 19.
 
 </br> Example:
 ```
