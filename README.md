@@ -2,7 +2,7 @@
 
 Coming soon...
 
-# installation
+# Installation and Instructions
 1. Download the code from this repository GitHub
 
 2. install the following modules
@@ -34,8 +34,6 @@ numoftimes = 1         # Enter in the number of times you would like to send the
 message = "Hello, World!"
 ```
 
-# Instructions
-
 # How it works?
 
 # Tools
@@ -43,4 +41,9 @@ message = "Hello, World!"
 **Selenium** - A module used to automate web browsers </br>
 **time** - 
 
-## Important 
+# Important 
+Please do NOT use this for spam, bullying, etc. 
+
+</br> By using this script, YOU will take FULL responsibility for anything that happens to ANYONE you use this on and anything you do with this script!. 
+
+</br> Additionally, using this script may involve a risk of you being banned and even other risks including but not limited to: being hacked, etc. Use this script at your own risk!
