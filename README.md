@@ -22,7 +22,8 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"  # Step 4 of the installations 
 ### If you are stuck on step 3 or 4, watch this short [tutorial!](https://www.youtube.com/watch?v=Xjv1sY630Uc&feature=youtu.be&t=260)
 
 5. Enter in your Instagram email, password, the recipient's username, the number of times you would like the message to send, and the message.
-</br> This starts on line 11
+
+</br> This starts on line 11:
 ```
 myemail = "example@gmail.com"    # Enter in your email for Instagram inside the quotation marks
 mypassword = "myInstagramPassword123"     # Enter in your password for Instagram inside the quotation marks
