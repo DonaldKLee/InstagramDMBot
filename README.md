@@ -53,9 +53,11 @@ message = "Hello, World!"
 **time** - A module that allowed us to add delays into the code. </br>
 **Selenium** - A module used to automate web browsers.
 
-# Important 
+# Terms of Service 
 Please do NOT use this for spam, bullying, etc. 
 
 </br> By using this script, YOU will take FULL responsibility for anything that happens to ANYONE you use this on and anything you do with this script!. 
 
 </br> Additionally, using this script may involve a risk of you being banned and even other risks including but not limited to: being hacked, etc. Use this script at your own risk!
+
+</br> These terms may be changed without notice.
