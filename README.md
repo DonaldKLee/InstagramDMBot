@@ -54,7 +54,7 @@ message = "Hello, World!"
 **Selenium** - A module used to automate web browsers.
 
 # Terms of Service 
-Please do NOT use this for spam, bullying, etc. 
+Please do **NOT** use this for spam, bullying, etc. 
 
 </br> By using this script, YOU will take FULL responsibility for anything that happens to ANYONE you use this on and anything you do with this script!. 
 
